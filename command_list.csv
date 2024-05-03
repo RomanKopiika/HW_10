@@ -1,0 +1,45 @@
+    1  git clone https://github.com/RomanKopiika/HW_10.git
+    2  ls -l
+    3  cd HW_10
+    4  touch text_ignore.txt
+    5  ls -l
+    6  ls -la
+    7  nano
+    8  ls -la
+    9  cd .gitignore
+   10  cd gitignore
+   11  nano .gitignore
+   12  nano .gitignore
+   13  git status
+   14  git add
+   15  git add.
+   16  git status
+   17  git add.
+   18  git add.gitignore
+   19  git status
+   20  git add.
+   21  nano .gitignore
+   22  git status
+   23  git add.
+   24  git add gitignore
+   25  git add .
+   26  touch main_test.txt
+   27  ls -l
+   28  git add .
+   29  git status
+   30  git commit
+   31  git commit -m "changed gitignore"
+   32  git status
+   33  git chekout -b develop
+   34  git checkout -b develop
+   35  git touch develop_test.txt
+   36  touch develop_test.txt
+   37  ls -l
+   38  git add .
+   39  git commit -m "addet develop_test.txt"
+   40  git checkout main
+   41  git log
+   42  git merge develop
+   43  git status
+   44  git log
+   45  history > command_list.csv
